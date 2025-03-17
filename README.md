@@ -1,5 +1,5 @@
-AI Chatbot Website
-Our AI-powered chatbot website is designed to provide seamless, interactive, and intelligent conversations. Built using modern web technologies like HTML, CSS, JavaScript, React, and TypeScript, it ensures a fast, scalable, and user-friendly experience.
+🤖 AI Chatbot Website 🌐
+Our AI-powered chatbot website is designed to provide seamless, interactive, and intelligent conversations. 🚀 Built using modern web technologies like HTML, CSS, JavaScript, React, and TypeScript, it ensures a fast, scalable, and user-friendly experience. ⚡
 
 Key Features:
 ✅ Real-Time Chat: Engage in instant and responsive conversations.
